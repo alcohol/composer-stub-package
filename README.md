@@ -5,7 +5,7 @@ just for debugging and testing purposes.
 
 ## sample project composer.json
 
-You can use the following `composer.json` to use the hosted packaged:
+You can use the following `composer.json` to use the hosted package:
 
 ```json
 {
